@@ -1,4 +1,6 @@
-# Robo
+# scaffold
+
+This repo contains everything you need to start a project with React, Redux, GO and SASS. The build system uses Webpack, tests are run with Mocha, while Babel is used to transpile ES6 / ES7 to cross browser friendly Javascript.
 
 ## To run it locally
 1. `$ npm install`
